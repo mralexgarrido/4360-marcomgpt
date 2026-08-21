@@ -1,0 +1,6 @@
+{
+  "name": "MarCom GPT: AI Learning Lab",
+  "description": "A privacy-first, no-login simulation laboratory for marketing and communications AI literacy across 11 UMC-inspired stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
